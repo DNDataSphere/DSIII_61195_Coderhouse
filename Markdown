@@ -1,0 +1,4 @@
+## Proyecto DSIII en colab
+Este es el proyecto para optar a la certificaición DSIII [NPL y Redes neuronales]
+Por el uso de librerias ploty el fichero en colab no permite desarrollar la visualización complete por favor ver el notebook en el siguiente repositorio]
+[Ver datos](https://colab.research.google.com/drive/1MFAGbTyducX4NQYmxHsaHsGax243-iUL?usp=sharing)
