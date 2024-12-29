@@ -1,0 +1,1 @@
+[Por el uso de librerias ploty el fichero en colab no permite desarrollar la visualización complete por favor ver el notebook en el siguiente repositorio]([Ver datos](https://docs.google.com/spreadsheets/d/1234567890abcdef/edit#gid=0)
